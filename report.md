@@ -62,10 +62,10 @@ link '0x2', 'host2'
 得られたトポロジ画像を以下に示す．
 
 * コントローラ起動時
-	* ![コントローラ起動時](./img/topology_0.png)
+![コントローラ起動時](./img/topology_0.png)
 * host1 から host2 にパケットを送った直後
-	* ![host1 から host2 にパケットを送った直後](./img/topology_0.png)
+![host1 から host2 にパケットを送った直後](./img/topology_1.png)
 * host2 から host1 にパケットを送った直後
-	* ![host2 から host1 にパケットを送った直後](./img/topology_0.png)
+![host2 から host1 にパケットを送った直後](./img/topology_2.png)
 
 このように正しい動作が確認された．
